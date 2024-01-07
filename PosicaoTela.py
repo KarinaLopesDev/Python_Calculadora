@@ -12,4 +12,4 @@ try:
         position_str = f'X: {x}, Y: {y}'
         print(position_str, end='\r')  # Mostra a posição atual sem criar novas linhas
 except KeyboardInterrupt:
-    print('\nPosição final obtida.')
+    print('\nPosição final obtida  .')
